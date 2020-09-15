@@ -22,7 +22,7 @@ class App extends React.Component{
   render(){
   return (
     <div className="App">
-      <h1 className="title">Pub API</h1>
+      <div className="title">Pub API</div>
       <ul className='beerlist'>
       {this.state.beers.map(beer => (
          <Beer beer={beer}/>
