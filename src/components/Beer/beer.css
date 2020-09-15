@@ -1,0 +1,22 @@
+.beer-image{
+    height: 150px;
+    width: auto;
+}
+.beer-itself{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: solid 5px rgb(82, 92, 82);
+    width: 300px;
+    background-color: goldenrod;
+    border-radius: 15px;
+}
+.img-and-like{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 15px 0px 15px 25px;
+}
+.descr{
+    font-size: 14px;
+}

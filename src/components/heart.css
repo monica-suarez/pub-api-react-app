@@ -1,0 +1,6 @@
+.like{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-top: 15%;
+}
